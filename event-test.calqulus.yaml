@@ -21,3 +21,19 @@
 - event: Off50
   steps:
     - import: [[55, 110, 165, 220, 275]]
+
+- event: Mid10
+  steps:
+    - add: [On50, 10]
+
+- event: Mid20
+  steps:
+    - add: [On50, 20]
+
+- event: Mid30
+  steps:
+    - add: [On50, 30]
+
+- event: Mid40
+  steps:
+    - add: [On50, 40]
