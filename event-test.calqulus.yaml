@@ -1,7 +1,3 @@
-- parameter: TestMarker
-  steps:
-    - import: TestMarker
-
 - parameter: Param50
   steps:
     - import: 
